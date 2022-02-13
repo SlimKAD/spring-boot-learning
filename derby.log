@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Feb 12 22:57:01 EST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017e-f13a-0dc0-00001d7533b0 
+on database directory memory:/Users/slimane.ahmed/Desktop/first-spring-boot/5e42eaac-7c1c-42b6-856e-05b257004e0b with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@6a6824be 
+Loaded from file:/Users/slimane.ahmed/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=11.0.14+9-LTS
+user.dir=/Users/slimane.ahmed/Desktop/first-spring-boot
+os.name=Mac OS X
+os.arch=x86_64
+os.version=12.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
